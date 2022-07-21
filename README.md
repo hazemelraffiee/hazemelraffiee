@@ -42,12 +42,6 @@
 - IBM RQM
 - IBM DOORS
 
-## Metrics
-
-- Successfully automated a thorough Metrics generation Python script that extracts information from IBM DOORS, IBM RQM, and generates Excel files with a lot of numbers and graphs, that are of significant importance both to Management and Team members to monitor work progress across the whole project.
-- Built and maintained Jenkins jobs to trigger Metrics generation multiple times per day, and converted the Jenkins Jobs into Pipelines for easier management.
-- Conducted multiple trainings  to internal/external Test Centers on Project Metrics generation and Testing Process.
-
 ## Documentation
 
 - Sphinx
