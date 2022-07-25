@@ -5,7 +5,7 @@
 
 ## Responsibilities:
 
-As one of the very first team members that joined the team, I assumed these set of responsiblities.
+As one of the very first team members that joined the team, I assumed these set of responsibilities.
 
 - Train many new-comers
 - Provide technical support for new and old team members
