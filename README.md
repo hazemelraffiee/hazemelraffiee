@@ -34,7 +34,7 @@ As one of the very first team members that joined the team, I assumed these set 
 - Used Zustand (previously Redux) to maintain internal app's state
 - Used React-Query for handling/caching all communication with Server-Side (REST API)
 - Used react-testing-library for unit-testing our apps
-- All our apps using TypeScript (_.ts) instead of plain JavaScript (_.js)
+- All our apps using TypeScript (\*.ts) instead of plain JavaScript (\*.js)
 - Used Material UI components (MUI)
 - Used both "yarn" and "npm" packaging tools
 
